@@ -1,0 +1,9 @@
+C:\Users\Win10\Desktop\araba\araba\bin\Debug\araba.exe
+C:\Users\Win10\Desktop\araba\araba\bin\Debug\araba.pdb
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.Form1.resources
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.Properties.Resources.resources
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.exe
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.pdb
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.Form2.resources
+C:\Users\Win10\Desktop\araba\araba\obj\x86\Debug\araba.Form3.resources
